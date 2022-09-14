@@ -1,0 +1,42 @@
+[
+    {
+        "interestName": "Basketball",
+        "id": "1"
+    }, 
+    {
+        "interestName": "Football",
+        "id": "2"
+    },
+    {
+        "interestName": "Volleyball",
+        "id": "3"
+    },
+    {
+        "interestName": "Marathon running",
+        "id": "4"
+    },
+    {
+        "interestName": "Skiing",
+        "id": "5"
+    },
+    {
+        "interestName": "Tennis",
+        "id": "6"
+    },
+    {
+        "interestName": "Cycling",
+        "id": "7"
+    },
+    {
+        "interestName": "Swimming",
+        "id": "8"
+    },
+    {
+        "interestName": "Baseball",
+        "id": "9"
+    },
+    {
+        "interestName": "Mountain climbing",
+        "id": "10"
+    }
+]
